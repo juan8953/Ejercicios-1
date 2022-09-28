@@ -1,8 +1,17 @@
 '''
-Crear un codigo que reciba una edad y que imprima una lista de los años que ha cumplido. ejemplo:
-se ingresa el valor 20 y se imprime :[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
-
+Crear un codigo para calcular el MCD 'maximo comun divisor' de dos numeros.
+Para hallar el maximo comun divisor de dos numeros:
+- Se divide el numero mayor entre el numero menor
+- Si la division es exacta, el divisor es el MCD
+- Si la division no es exacta se sigue dividiendo hasta obtener una divison exacta, dado como resultado el MCD
+Hcer uso de las siguientes funciones 
 '''
+def division(mayor,menor):
 
-#TODO:Crear el codigo desde esta linea
+
+
+def calcular_MCD(num1,num2):
+
+
+
 
