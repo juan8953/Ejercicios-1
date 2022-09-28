@@ -1,4 +1,4 @@
-'''Cree un codigo que permita validar la direccionde correo electronico que ingresa el usuario
+'''Cree un codigo que permita validar la direccion de correo electronico que ingresa el usuario
 El correo es valido si contiene una @.
 puede usar la funcion 
 '''
