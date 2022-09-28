@@ -1,8 +1,5 @@
+'''cree una funcion que permita validar la direccionde correo electronico que ingresa el usuario
+El correo es valido si contiene una @.
+puede usar la funcion 
 '''
-Crear un codigo que reciba una frase y que imprima la cantidad de caracteres qu tiene (incluyendo los espacios)
-implementación mediante una función 
-generar la documentación de la función a implementar 
-agregar una funcionalidad, que modifique la cadena de manera ciclica, ej: que cambie cada caracter en una posición prima por el número primo correspondiente. 
-'''
-
-#TODO:Crear el codigo desde esta linea
+def validar(email):
