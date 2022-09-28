@@ -1,5 +1,5 @@
 '''
-Crear una funcion que calcule el area y el perimetro de un circulo.
+Crear un codigo que calcule el area y el perimetro de un circulo.
 recomendacion: importar la libreria math 
 '''
 def area_perimetro('...'):
