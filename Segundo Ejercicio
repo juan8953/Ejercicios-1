@@ -1,8 +1,16 @@
 '''
 Crear un codigo que calcule el area y el perimetro de un circulo.
-recomendacion: importar la libreria math 
+recomendacion: importar la libreria math
 '''
-def area_perimetro('...'):
+import math
+rdio=float(input("Ingrese el radio de la circunferencia para realizar los respectivos calculos"))
+def area_perimetro(rdio):
+    area=math.pi*(rdio*rdio)
+    perimetro=2*math.pi*rdio
+    return area,perimetro
+print(area_perimetro(rdio))
 ''' Hacer el codigo apartir de esta linea '''
+
+
 
 
