@@ -3,4 +3,11 @@ El correo es valido si contiene una @.
 puede usar la funcion 
 '''
 def validar(email):
+  email1=list(email)
+  for i in (0,len(email1)):
+    if email1[i]== '@':
+      return print("el email es valido")
+    else:
+      return print("el email no es valido")
+print(validar("jm@gmail.com"))
 ''' Hacer el codigo apartir de esta linea '''
